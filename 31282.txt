@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dwa
+=======
+Jeden
+>>>>>>> aee2336 (Pierwszy - user)
